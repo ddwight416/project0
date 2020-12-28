@@ -1,0 +1,92 @@
+*{
+    font-size: 34px;
+    background-color:black;
+    color:white;
+    margin-bottom: 5%;
+}
+
+header{
+
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+
+}
+
+.me2{
+    position: relative;
+    width:100%;
+    left:42%;
+    box-sizing: border-box;
+}
+
+.me{
+    position: relative;
+    width: 25%;
+    height: 25%;
+    left: 40%;
+    overflow: hidden;
+}
+
+.Wakanda{
+    position: relative;
+    width: 33%;
+    height: 33%;
+}
+
+#headhob{
+
+    padding:0;
+    padding:0;
+}
+
+#hobid{
+    text-align: left;
+}
+
+.games{
+    position: relative;
+    width: 33%;
+    height: 33%;
+    overflow: hidden;
+}
+.hob{
+    position: relative;
+    left:40%;
+    width: 33%;
+    height: 33%;
+
+}
+
+.unique{
+    position: relative;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.about{
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.link{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.me{
+    position:relative;
+    left: 40%;
+}
+
+.hobbies{
+    border:none;
+    
+}
+
+.hobbies li{
+    list-style: none;
+    box-sizing: border-box;
+}
